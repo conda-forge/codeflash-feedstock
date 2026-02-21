@@ -53,6 +53,7 @@ requirements:
     - codeflash-benchmark
     - filelock
     - pytest-asyncio >=1.2.0
+    - tree-sitter-python
 
 tests:
   - python:
