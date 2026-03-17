@@ -1,5 +1,5 @@
 context:
-  version: "0.19.1"
+  version: "0.20.3"
   python_min: "3.10"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/codeflash/codeflash-${{ version }}.tar.gz
-  sha256: a92444477e80aa27dd2ec508b7e422eb43ed96e411ae302a9fe9b9057440fd5b
+  sha256: cfa548698d04390dce292620b6ca72581b54f617b30ef0d7a779440f8020b209
 
 build:
   noarch: python
